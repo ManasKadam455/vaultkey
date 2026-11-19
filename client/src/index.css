@@ -1,0 +1,6 @@
+/* src/index.css
+   This is the only CSS file we need.
+   The @import directive tells Tailwind v4 to inject all utility classes here.
+   Every component in the app can use Tailwind classes without any extra imports. */
+
+@import "tailwindcss";
